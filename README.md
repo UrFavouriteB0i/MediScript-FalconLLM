@@ -26,11 +26,11 @@ This project aims to build an advanced system that streamlines the process of re
 This project is currently in the early stages of development. Key milestones will be shared in this repository as the project progresses.
 
 To-Do List
-- [] Implement ASR module for voice-to-text conversion.
-- [] Develop the LLM-based text processing and classification system.
-- [] Integrate the processed data into a structured e-Health record form.
-- [] Build the web UI for interaction with the system.
-- []  Conduct testing and validation with real-world data.
+- [ ] Implement ASR module for voice-to-text conversion.
+- [ ] Develop the LLM-based text processing and classification system.
+- [ ] Integrate the processed data into a structured e-Health record form.
+- [ ] Build the web UI for interaction with the system.
+- [ ]  Conduct testing and validation with real-world data.
 
 ### Stay Updated
 Please watch this repository for updates as we continue to develop this project. Contributions, suggestions, and feedback will be welcome once the initial version is released.
